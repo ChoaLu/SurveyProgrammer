@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\bin\Debug\IonosphereCorrection.exe.config
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\bin\Debug\IonosphereCorrection.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\bin\Debug\IonosphereCorrection.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\obj\Debug\IonosphereCorrection.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\obj\Debug\IonosphereCorrection.Form1.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\obj\Debug\IonosphereCorrection.Properties.Resources.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\obj\Debug\IonosphereCorrection.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\obj\Debug\IonosphereCorrection.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\IonosphereCorrection\obj\Debug\IonosphereCorrection.pdb
