@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\bin\Debug\轨迹数据压缩算法实现.exe.config
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\bin\Debug\轨迹数据压缩算法实现.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\bin\Debug\轨迹数据压缩算法实现.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\obj\Debug\轨迹数据压缩算法实现.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\obj\Debug\轨迹数据压缩算法实现.Form1.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\obj\Debug\轨迹数据压缩算法实现.Properties.Resources.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\obj\Debug\轨迹数据压缩算法实现.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\obj\Debug\轨迹数据压缩算法实现.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\轨迹数据压缩算法实现\obj\Debug\轨迹数据压缩算法实现.pdb

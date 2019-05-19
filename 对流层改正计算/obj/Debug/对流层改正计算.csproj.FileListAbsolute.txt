@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\obj\Debug\对流层改正计算.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\obj\Debug\对流层改正计算.Properties.Resources.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\obj\Debug\对流层改正计算.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\bin\Debug\对流层改正计算.exe.config
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\bin\Debug\对流层改正计算.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\bin\Debug\对流层改正计算.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\obj\Debug\对流层改正计算.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\obj\Debug\对流层改正计算.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\对流层改正计算\obj\Debug\对流层改正计算.对流层改正计算.resources

@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\bin\Debug\线性回归模型对卫星轨道进行预测.exe.config
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\bin\Debug\线性回归模型对卫星轨道进行预测.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\bin\Debug\线性回归模型对卫星轨道进行预测.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\obj\Debug\线性回归模型对卫星轨道进行预测.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\obj\Debug\线性回归模型对卫星轨道进行预测.Form1.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\obj\Debug\线性回归模型对卫星轨道进行预测.Properties.Resources.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\obj\Debug\线性回归模型对卫星轨道进行预测.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\obj\Debug\线性回归模型对卫星轨道进行预测.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\线性回归模型对卫星轨道进行预测\obj\Debug\线性回归模型对卫星轨道进行预测.pdb

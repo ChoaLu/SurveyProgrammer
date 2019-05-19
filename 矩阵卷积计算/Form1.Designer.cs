@@ -1,0 +1,128 @@
+﻿namespace 矩阵卷积计算
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// 必需的设计器变量。
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// 清理所有正在使用的资源。
+        /// </summary>
+        /// <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows 窗体设计器生成的代码
+
+        /// <summary>
+        /// 设计器支持所需的方法 - 不要修改
+        /// 使用代码编辑器修改此方法的内容。
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.OpenMBtn = new System.Windows.Forms.ToolStripMenuItem();
+            this.OpenNBtn = new System.Windows.Forms.ToolStripMenuItem();
+            this.CalBtn = new System.Windows.Forms.ToolStripMenuItem();
+            this.SaveBtn = new System.Windows.Forms.ToolStripMenuItem();
+            this.ReportTbx = new System.Windows.Forms.TextBox();
+            this.menuStrip1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.OpenMBtn,
+            this.OpenNBtn,
+            this.CalBtn,
+            this.SaveBtn});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(703, 28);
+            this.menuStrip1.TabIndex = 1;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // OpenMBtn
+            // 
+            this.OpenMBtn.Name = "OpenMBtn";
+            this.OpenMBtn.Size = new System.Drawing.Size(96, 24);
+            this.OpenMBtn.Text = "打开M矩阵";
+            this.OpenMBtn.Click += new System.EventHandler(this.OpenMBtn_Click);
+            // 
+            // OpenNBtn
+            // 
+            this.OpenNBtn.Name = "OpenNBtn";
+            this.OpenNBtn.Size = new System.Drawing.Size(93, 24);
+            this.OpenNBtn.Text = "打开N矩阵";
+            this.OpenNBtn.Click += new System.EventHandler(this.OpenNBtn_Click);
+            // 
+            // CalBtn
+            // 
+            this.CalBtn.Name = "CalBtn";
+            this.CalBtn.Size = new System.Drawing.Size(51, 24);
+            this.CalBtn.Text = "计算";
+            this.CalBtn.Click += new System.EventHandler(this.CalBtn_Click);
+            // 
+            // SaveBtn
+            // 
+            this.SaveBtn.Name = "SaveBtn";
+            this.SaveBtn.Size = new System.Drawing.Size(51, 24);
+            this.SaveBtn.Text = "保存";
+            this.SaveBtn.Click += new System.EventHandler(this.SaveBtn_Click);
+            // 
+            // ReportTbx
+            // 
+            this.ReportTbx.Location = new System.Drawing.Point(12, 31);
+            this.ReportTbx.Multiline = true;
+            this.ReportTbx.Name = "ReportTbx";
+            this.ReportTbx.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.ReportTbx.Size = new System.Drawing.Size(691, 539);
+            this.ReportTbx.TabIndex = 2;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(703, 582);
+            this.Controls.Add(this.ReportTbx);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
+            this.Name = "Form1";
+            this.Text = "矩阵卷积运算";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem OpenMBtn;
+        private System.Windows.Forms.ToolStripMenuItem OpenNBtn;
+        private System.Windows.Forms.ToolStripMenuItem CalBtn;
+        private System.Windows.Forms.ToolStripMenuItem SaveBtn;
+        private System.Windows.Forms.TextBox ReportTbx;
+    }
+}
+
