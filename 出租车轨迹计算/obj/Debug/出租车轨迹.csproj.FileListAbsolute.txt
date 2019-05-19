@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\bin\Debug\出租车轨迹.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\bin\Debug\出租车轨迹.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\obj\Debug\出租车轨迹.Form1.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\obj\Debug\出租车轨迹.Properties.Resources.resources
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\obj\Debug\出租车轨迹.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\obj\Debug\出租车轨迹.exe
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\obj\Debug\出租车轨迹.pdb
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\bin\Debug\出租车轨迹.exe.config
+C:\Users\acer\Desktop\work\开发\c#\测量程序设计\出租车轨迹\obj\Debug\出租车轨迹.csprojResolveAssemblyReference.cache
